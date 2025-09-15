@@ -1,4 +1,14 @@
-This is my file 
+This is Summary
+
+If git config --list doesn’t show user.name and user.email:
+
+Set them with --global or locally.
+
+Confirm with git config --list --show-origin.
+
+Make sure no permission issues block configuration.
+
+Do you want me to guide you step-by-step in setting it up on your system?my file 
 if 2>2:
 	print("10 is greater")
 	print("ended")
@@ -8,4 +18,8 @@ x = 4
 if x>4:
 	print("yes")
 else:
-	print("No")
+	print("No"
+
+
+
+	)
