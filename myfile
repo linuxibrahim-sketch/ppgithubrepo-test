@@ -1,0 +1,11 @@
+This is my file 
+if 2>2:
+	print("10 is greater")
+	print("ended")
+	print("This is an python classes")
+if and else
+x = 4
+if x>4:
+	print("yes")
+else:
+	print("No")
